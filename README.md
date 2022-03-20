@@ -1,6 +1,6 @@
 # PSD-to-HTML
 
-(Click on any image to enlarge it)
+(Click on any image to enlarge it) (Normally there wouldn't be redundant images and groupings but this is for demonstration purposes)
 
 Here is the starting photoshop document:
 
